@@ -1,0 +1,15 @@
+/*
+Theme Name: theme By Pranay
+Author: pranay
+*/
+@font-face {
+    font-family: productSansRegular;
+    src: url(fonts/Product-Sans-Regular.woff);
+}
+@font-face {
+    font-family: productSansBold;
+    src: url(fonts/Product-Sans-Bold_1.woff);
+}
+body {
+	font-family: productSansRegular;
+}
